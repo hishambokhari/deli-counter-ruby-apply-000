@@ -8,3 +8,5 @@ end
 def now_serving(katz_deli, "Andy")
   puts "Welcome Andy, you are number 1 in line."
 end
+
+line(katz_deli) #the line is currently 1.John 2. Andy
